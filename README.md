@@ -275,7 +275,7 @@ data.head()
 Статья про one hot вид: ссылка https://colab.research.google.com/drive/1qKamnDiRmpRZkpiqWPkunBdAhmzhMcGz?usp=sharing
 
 # Промежуточная аттестация
-
+https://colab.research.google.com/drive/18wM3twHv1iNsPsI8I1-jSkkMSesxx-n7?usp=sharing
 
 
 
