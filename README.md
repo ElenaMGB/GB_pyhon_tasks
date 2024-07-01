@@ -263,6 +263,10 @@ stroka = 'пара-ра-рам рам-пам-папам па-ра-па-дам'
 
 # Урок 10. Построение графиков
 Задача.Построение графиков
+Визуализация данных с помощью библиотек matplotlib и seaborn:
+https://colab.research.google.com/drive/1-3GB1IjJy2oCZbQySnmTjr6_xTYc0Oz-#scrollTo=hqKxGy0UMJC4
+
+
 Задача 44: В ячейке ниже представлен код генерирующий DataFrame, которая состоит всего из 1 столбца. Ваша задача перевести его в one hot вид. Сможете ли вы это сделать без get_dummies?
 
 import random
